@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.video-detail-page {
+    position: relative;
+    left: 40px;
+}
+
+.activity-part {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    bottom: 5px;
+}
+
+.user {
+    font-family: "Roboto", sans-serif;
+    font-weight: 650;
+    font-size: 1.3em;
+}
+
+.subscribe {
+    position: relative;
+    left: 15px;
+    font-size: 1.2em;
+    background-color: #FF0000;
+    border: none;
+    color: white;
+    border-radius: 2px;
+    font-weight: 530;
+    font-family: 'Roboto', sans-serif;
+}
+
+.like {
+    position: absolute;
+    bottom: 14px;
+    left: 795px;
+}
+
+.dislike {
+    position: absolute;
+    bottom: 14px;
+    left: 855px;
+}
+
+.description {
+    position: relative;
+    top: 20px;
+}
